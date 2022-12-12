@@ -1,2 +1,2 @@
-# CharlieStore
+# Charlie Store
 Tienda en Línea
