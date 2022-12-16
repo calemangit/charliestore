@@ -1,2 +1,2 @@
 # Charlie Store
-Tienda en Línea
+Tienda en Línea implementando "Flask-Python"
