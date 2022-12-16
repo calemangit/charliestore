@@ -1,3 +1,3 @@
 # Charlie Store
 Tienda en Línea 
-* Implementando "Flask-Python".
+* Implementando "HTML, CSS, JAVASCRIPT, BOOTSTRAP".
